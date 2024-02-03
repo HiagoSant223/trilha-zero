@@ -15,6 +15,13 @@ xhr.onreadystatechange = funcion(); {
 
 }
 
-//AUTERAÇÃO REALIZADA
+/*git init -> criar o repositório local
 
-//COMMIT 03
+git remote add origin "link do github"
+
+git add .
+
+git commit -m "mensagem de commit"
+
+git push origin main*/
+
