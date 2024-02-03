@@ -14,3 +14,7 @@ xhr.onreadystatechange = funcion(); {
     }
 
 }
+
+//AUTERAÇÃO REALIZADA
+
+//COMMIT 03
